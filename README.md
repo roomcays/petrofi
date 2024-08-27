@@ -3,6 +3,8 @@
 Quickly written aid to show [pet](https://github.com/knqyf263/pet) snippets in [rofi](https://github.com/davatorium/rofi/)
 and copy selected entry's command into system clipboard.
 
+![PetRofi's shot of screen](screenshot.png)
+
 ## Operating system requirements:
 
 1. [rofi](https://github.com/davatorium/rofi/)
